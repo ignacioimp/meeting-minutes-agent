@@ -1,0 +1,10 @@
+TITLE: Example product pilot review
+DATE: 2030-02-01
+ATTENDEES: Demo lead, Demo analyst
+SUMMARY: The group discussed a small prototype and agreed to review usability before expanding.
+DECISION: Run a controlled pilot with synthetic data only.
+ACTION: Prepare a synthetic test dataset | owner=Demo analyst | due=2030-02-05
+ACTION: Review user feedback after the pilot
+OPEN: Which adoption metric best captures useful outcomes?
+RISK: Incomplete documentation could delay the pilot.
+Someone suggested next week might be a good time, but no commitment was made.
